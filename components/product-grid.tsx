@@ -62,8 +62,8 @@ export function ProductGrid({ filter }: ProductGridProps) {
   }
 
   const getTitle = () => {
-    if (filter === "men") return "Men's Collection"
-    if (filter === "women") return "Women's Collection"
+    if (filter === "men") return "Men&#39;s Collection"
+    if (filter === "women") return "Women&#39;s Collection"
     if (filter === "unisex") return "Unisex Collection"
     if (filter === "new-arrivals") return "New Arrivals"
     if (filter === "bestsellers") return "Best Sellers"
@@ -73,8 +73,8 @@ export function ProductGrid({ filter }: ProductGridProps) {
   }
 
   const getDescription = () => {
-    if (filter === "men") return "Discover our latest men's fashion pieces"
-    if (filter === "women") return "Explore our elegant women's collection"
+    if (filter === "men") return "Discover our latest men&#39;s fashion pieces"
+    if (filter === "women") return "Explore our elegant women&#39;s collection"
     if (filter === "unisex") return "Versatile styles for everyone"
     if (filter === "new-arrivals") return "Fresh styles just landed"
     if (filter === "bestsellers") return "Our most popular items"

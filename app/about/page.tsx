@@ -31,7 +31,7 @@ export default function AboutPage() {
               <h2 className="text-3xl font-bold text-jet mb-6 font-mono">Our Story</h2>
               <p className="text-jet/80 mb-4 font-mono">
                 Founded with a vision to revolutionize sustainable fashion, JUI & Co began as a small dream to create
-                clothing that doesn't compromise on style or environmental values.
+                clothing that doesn&#39;t compromise on style or environmental values.
               </p>
               <p className="text-jet/80 mb-4 font-mono">
                 Our signature sage and moss green palette reflects our deep connection to nature and our commitment to

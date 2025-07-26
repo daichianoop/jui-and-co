@@ -10,7 +10,7 @@ export default function WomenPage() {
       <AnimatedBackground />
       <Header />
       <HeroSection
-        title="WOMEN'S COLLECTION"
+        title="WOMEN&#39;S COLLECTION"
         subtitle="Explore our elegant collection for women"
         backgroundImage="/placeholder.svg?height=400&width=1200"
       />

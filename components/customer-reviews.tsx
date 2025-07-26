@@ -16,7 +16,7 @@ export default function CustomerReviews() {
 const testimonials = [
   {
     quote:
-      "The quality of JUI & Co clothing is exceptional. The sage green tee I bought is so comfortable and the fit is perfect. I've received so many compliments!",
+      "The quality of JUI & Co clothing is exceptional. The sage green tee I bought is so comfortable and the fit is perfect. I&#39;ve received so many compliments!",
     name: "Priya Sharma",
     title: "Fashion Enthusiast",
   },

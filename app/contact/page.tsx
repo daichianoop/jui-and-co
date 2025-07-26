@@ -52,7 +52,7 @@ export default function ContactPage() {
         {/* Hero Section */}
         <HeroSection
             title="Get In Touch"
-            subtitle="We'd love to hear from you. Send us a message and we'll respond as soon as possible."
+            subtitle="We&#39;d love to hear from you. Send us a message and we&#39;ll respond as soon as possible."
             backgroundImage="/placeholder.svg?height=400&width=1200"
         />
 

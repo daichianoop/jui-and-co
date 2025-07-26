@@ -79,7 +79,7 @@ export function BestSellers() {
         <div className="text-center mb-12 animate-in fade-in slide-in-from-bottom-4 duration-700">
           <h2 className="text-4xl font-bold text-jet mb-4 font-mono">Best Sellers</h2>
           <p className="text-jet/80 max-w-2xl mx-auto font-mono">
-            Discover our most loved pieces that customers can't get enough of
+            Discover our most loved pieces that customers can&#39;t get enough of
           </p>
         </div>
 

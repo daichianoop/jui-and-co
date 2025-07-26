@@ -10,7 +10,7 @@ export default function MenPage() {
       <AnimatedBackground />
       <Header />
       <HeroSection
-        title="MEN'S COLLECTION"
+        title="MEN&#39;S COLLECTION"
         subtitle="Discover our premium collection for men"
         backgroundImage="/placeholder.svg?height=400&width=1200"
       />
